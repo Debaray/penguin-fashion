@@ -1,0 +1,60 @@
+.container-fontstyle{
+    font-size: 17px;
+    font-weight: 600;
+}
+.custom-background-color{
+    background-color: #FFFBF0;
+}
+.card-background-color{
+    background-color: #F1F1F1;
+    border-radius: 20px; 
+}
+.roboto-font{
+    font-family: 'Roboto', sans-serif;
+}
+.bebas-neue-font{
+    font-family: 'Bebas Neue', cursive;
+}
+.categories-font-size{
+    font-size: 48px;
+}
+.default-font-size{
+    font-size: 16px;
+}
+.pricetag-font-size{
+    font-size: 36px;
+    font-weight: 600;
+}
+.card-title-font-size{
+    font-size: 24px;
+    font-weight: 600;
+}
+.banner-text-size{   
+    font-size: 80px;
+}
+.custom-card{
+    border:0;
+    border-radius: 20px;
+    /* border-top-right-radius: 20px; */
+}
+.custom-card-footer{
+    background-color: white;
+    border: 0;
+    border-radius: 20px;
+}
+.close-to-orange{
+ color: #FABE4C;
+}
+.close-to-navyblue{
+    color: #363958;
+}
+.close-to-black{
+    color: #3C3C3C;
+}
+.custom-btn{
+    background-image:linear-gradient(45deg,#85A019,#46BC52,#85A019);
+    border: 0;
+    border-radius: .8em;
+    padding: 2.6em;
+    color: white;
+}
