@@ -1,7 +1,4 @@
-.container-fontstyle{
-    font-size: 17px;
-    font-weight: 600;
-}
+
 .custom-background-color{
     background-color: #FFFBF0;
 }
@@ -21,6 +18,12 @@
 .default-font-size{
     font-size: 16px;
 }
+.nav-font-weight{
+    font-weight: bold;
+}
+.list-item-padding-margin{
+    padding-right: 25px;
+}
 .pricetag-font-size{
     font-size: 36px;
     font-weight: 600;
@@ -39,8 +42,9 @@
 }
 .custom-card-footer{
     background-color: white;
-    border: 0;
+    
     border-radius: 20px;
+    border:0px;
 }
 .close-to-orange{
  color: #FABE4C;
